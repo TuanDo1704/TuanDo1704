@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Tuan 👋
 
-<!--
-**TuanDo1704/TuanDo1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Control Engineering and Automation student focused on autonomous vehicles, mobile robotics, and connected autonomous systems.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Autonomous Vehicles
+- Mobile Robotics
+- ROS 2 and Nav2
+- Control Systems
+- V2V / V2I / V2X
+- Cooperative Autonomous Systems
+- Intelligent Transportation Systems
+
+## Current Research
+
+### DriveX Autonomous Vehicle and V2X Research Platform
+
+Developing a physical Ackermann-steering autonomous vehicle research platform integrating ROS 2, Nav2, LiDAR-based navigation, embedded vehicle control, and V2X-assisted cooperative autonomy.
+
+Current work focuses on:
+
+- ROS 2 autonomous navigation
+- LiDAR-based mapping and localization
+- Ackermann vehicle control
+- Encoder odometry and calibration
+- V2I infrastructure information integration
+- V2V cooperative driving
+- Communication-aware autonomous decision-making
+- Runtime safety
+
+## Technical Stack
+
+**Robotics:** ROS 2, Nav2, SLAM Toolbox, RViz2
+
+**Control:** PID Control, Ackermann Kinematics, Path Tracking, Vehicle Modeling
+
+**Embedded:** C/C++, Raspberry Pi, Arduino, ESP32
+
+**Tools:** MATLAB/Simulink, Ubuntu Linux, Git
+
+## Featured Project
+
+**DriveX Autonomous Vehicle and V2X Research Platform**
+
+Project demonstrations and experimental materials:
+
+[DriveX Project Portfolio](https://drive.google.com/drive/folders/147Pp82Ls9ovT0m0YNKJmgXiO2AjZyxZU?usp=sharing)
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/tuando1704)
